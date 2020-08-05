@@ -2,7 +2,7 @@
 
 ## I'm a Student !
 
-- 🏫 I’m currently a Year 1 Computer Science Student at NUS.
+- 🏫 I’m a Year 1 Computer Science Student at NUS.
 - 🌱 Constantly looking for project based learning opportunity.
 - ❓  Area of interests: Machine Learning, Data Analytics and Algorithm.
 - 🥅 2020 Goal: Deploy a fully functional Web Application for production.
