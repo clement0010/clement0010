@@ -4,7 +4,7 @@
 
 - 🏫 I’m a Year 1 Computer Science Student at NUS.
 - 🌱 Constantly looking for project based learning opportunity.
-- ❓  Area of interests: Machine Learning, Data Analytics and Algorithm.
+- ❓  Area of interests: Fullstack Web Development, Machine Learning, Data Analytics and Algorithm.
 - 🥅 2020 Goal: Deploy a fully functional Web Application for production.
 - ⚡ Fun fact: I love to travel ✈ and go hiking 🌳.
 
