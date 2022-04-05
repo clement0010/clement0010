@@ -2,7 +2,7 @@
 
 ## I'm a Student !
 
-- 🏫 I’m a Year 1 Computer Science Student at NUS.
+- 🏫 I’m a Year 2 Computer Science Student at NUS.
 - 🌱 Constantly looking for project based learning opportunity and internship opportunity.
 - ❓  Area of interests: Fullstack Web Development, Machine Learning, Data Analytics and Algorithm.
 - ⚡ Fun fact: I love to travel ✈ and go hiking 🌳.
