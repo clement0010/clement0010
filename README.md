@@ -44,3 +44,6 @@
 [instagram]: https://www.instagram.com/clement0010/
 [linkedin]: https://www.linkedin.com/in/clement-tee-87822b18b/
 [facebook]: https://www.facebook.com/clement0010
+
+<!-- GitHub Stats  -->
+![Clement's GitHub stats](https://github-readme-stats.vercel.app/api?username=clement0010&theme=dark&show_icons=true)
