@@ -9,9 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Clement | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Clement | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Clement | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Clement | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Clement | Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
 <br />
 
@@ -42,8 +41,7 @@
 <!-- [website]:  -->
 
 [instagram]: https://www.instagram.com/clement0010/
-[linkedin]: https://www.linkedin.com/in/clement-tee-87822b18b/
-[facebook]: https://www.facebook.com/clement0010
+[linkedin]: https://www.linkedin.com/in/clement0010/
 
 <!-- GitHub Stats  -->
 ![Clement's GitHub stats](https://github-readme-stats.vercel.app/api?username=clement0010&theme=dark&show_icons=true)
